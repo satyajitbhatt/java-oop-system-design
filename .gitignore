@@ -19,7 +19,8 @@ tmp/
 .metadata
 *.tmp
 *.bak
-*.swp
+*.swpy
+
 *~.nib
 local.properties
 .loadpath
@@ -30,3 +31,5 @@ local.properties
 *.iml
 *.ipr
 *.iws
+
+.gitignore
