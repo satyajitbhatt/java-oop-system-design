@@ -63,7 +63,7 @@ So external code **cannot modify it directly**.
 
 Encapsulation protects the system from **invalid state changes**.
 
-Example scenarios:
+Example scenarios :
 
 | Scenario                    | Protection |
 | --------------------------- | ---------- |
@@ -88,7 +88,7 @@ This structure keeps the **encapsulation example isolated and easy to understand
 
 ---
 
-# 💳 Wallet Class Implementation
+# Wallet Class Implementation
 
 ```java
 package encapsulation;
@@ -158,7 +158,7 @@ public class Wallet {
 
 ---
 
-# ▶️ Application Execution
+# Application Execution
 
 ```java
 package encapsulation;
@@ -282,10 +282,10 @@ This demonstrates how **real systems are modeled using object-oriented design**.
 
 # Key Takeaways
 
-✔ Encapsulation protects object data
-✔ Internal state cannot be modified directly
-✔ Business rules are enforced inside the class
-✔ External code interacts through **controlled public methods**
+- Encapsulation protects object data
+- Internal state cannot be modified directly
+- Business rules are enforced inside the class
+- External code interacts through **controlled public methods**
 
 Encapsulation is essential for **building secure and maintainable software systems**.
 
